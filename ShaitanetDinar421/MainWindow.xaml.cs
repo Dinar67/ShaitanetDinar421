@@ -12,7 +12,7 @@ namespace ShaitanetDinar421
         {
             InitializeComponent();
             Navigation.Intialize(MainFrame);
-            Navigation.NextPage(new ProductListPage());
+            Navigation.NextPage(new AuthPage());
         }
 
         private void HideBtn_Click(object sender, RoutedEventArgs e)

@@ -9,5 +9,6 @@ namespace ShaitanetDinar421
     public partial class App : Application
     {
         public static ExamDinarEntities db = new ExamDinarEntities();
+        public static User CurrentUser {  get; set; }
     }
 }

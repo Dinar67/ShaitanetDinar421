@@ -1,0 +1,26 @@
+﻿<Page x:Class="ShaitanetDinar421.Pages.AuthPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShaitanetDinar421.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="560" d:DesignWidth="1000"
+      Title="AuthPage">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock FontWeight="Bold" FontSize="28" Margin="0 0 0 20" HorizontalAlignment="Center">Авторизация</TextBlock>
+            <StackPanel Orientation="Horizontal" Margin="0 0 0 10">
+                <TextBlock Width="60">Логин</TextBlock>
+                <TextBox x:Name="LoginTb" Width="200"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 0 0 10">
+                <TextBlock Width="60">Пароль</TextBlock>
+                <PasswordBox x:Name="PasswordPb" Width="200"></PasswordBox>
+            </StackPanel>
+            <Button x:Name="AthBtn" Click="AthBtn_Click" Margin="0 10 0 10">Войти</Button>
+            <TextBlock HorizontalAlignment="Center">- нет аккаунта? <Hyperlink x:Name="RegLink" Click="RegLink_Click">Зарегистрироваться</Hyperlink> -</TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>
