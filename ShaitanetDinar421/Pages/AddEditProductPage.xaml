@@ -19,11 +19,11 @@
 
                     <StackPanel Orientation="Horizontal" Margin="0 0 0 10">
                         <TextBlock Width="100">Наименование</TextBlock>
-                        <TextBox x:Name="SurnameTb" Width="200" MaxLength="50" Text="{Binding Surname}"></TextBox>
+                        <TextBox x:Name="NameTb" Width="200" MaxLength="50" Text="{Binding Name}"></TextBox>
                     </StackPanel>
                     <StackPanel Orientation="Horizontal" Margin="0 0 0 10">
                         <TextBlock Width="100">Цена</TextBlock>
-                        <TextBox x:Name="NameTb" Width="200" MaxLength="50" Text="{Binding Name}"></TextBox>
+                        <TextBox x:Name="PriceTb" Width="200" MaxLength="50" Text="{Binding Price}"></TextBox>
                     </StackPanel>
                     <StackPanel Orientation="Vertical" Margin="0 0 0 10">
                         <TextBlock Width="100" HorizontalAlignment="Left" Margin="0 0 0 5">Описание</TextBlock>

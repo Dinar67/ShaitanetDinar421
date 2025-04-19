@@ -8,6 +8,7 @@
     <Property Name="Name" Type="nvarchar(max)" />
     <Property Name="Price" Type="decimal" Precision="10" Scale="2" />
     <Property Name="ImageBytes" Type="varbinary(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
   </EntityType>
   <EntityType Name="Role">
     <Key>

@@ -37,6 +37,8 @@
             <TextBlock x:Name="CountTb" TextAlignment="Right" Margin="5 0" VerticalAlignment="Center"></TextBlock>
         </Border>
 
+        <Button x:Name="AddBtn" Click="AddBtn_Click" Width="100" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left">Добавить корм</Button>
+
         <StackPanel Grid.Row="1" Grid.Column="2" Margin="15 15 15 0" >
             <Border BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top" Height="25" >
                 <Grid>

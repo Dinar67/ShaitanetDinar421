@@ -61,7 +61,7 @@ namespace ShaitanetDinar421.Pages
 
         private void ProductBtn_Click(object sender, RoutedEventArgs e)
         {
-
+            
         }
 
         private void ExitBtn_Click(object sender, RoutedEventArgs e)
@@ -98,6 +98,11 @@ namespace ShaitanetDinar421.Pages
                 currentPage++;
                 ShowList(Products);
             }
+        }
+
+        private void AddBtn_Click(object sender, RoutedEventArgs e)
+        {
+            Navigation.NextPage(new AddEditProductPage(new Product()));
         }
     }
 }
