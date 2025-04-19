@@ -17,7 +17,7 @@ namespace ShaitanetDinar421
 
         private void HideBtn_Click(object sender, RoutedEventArgs e)
         {
-            this.Hide();
+            this.WindowState = WindowState.Minimized;     
         }
 
         private void CloseBtn_Click(object sender, RoutedEventArgs e)

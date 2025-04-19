@@ -21,3 +21,7 @@ C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar4
 C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\ShaitanetDinar421_Content.g.cs
 C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\App.baml
 C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Shaitane.03FDBAA9.Up2Date
+C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Pages\ProductListPage.g.cs
+C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Pages\ProductListPage.baml
+C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Components\ProductControl.g.cs
+C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Components\ProductControl.baml

@@ -9,6 +9,47 @@
       Title="ProductListPage">
 
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="64*"/>
+            <RowDefinition Height="453*"/>
+            <RowDefinition Height="43*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="241*"/>
+            <ColumnDefinition Width="558*"/>
+            <ColumnDefinition Width="201*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="1">
+            <Button x:Name="ProductBtn" Click="ProductBtn_Click" Width="150" Height="50" Margin="0 0 0 20">Корма</Button>
+            <Button x:Name="UserBtn" Click="UserBtn_Click" Width="150" Height="50" Margin="0 0 0 20">Пользователи</Button>
+            <Button x:Name="ExitBtn" Click="ExitBtn_Click" Width="150" Height="50" Margin="0 0 0 20">Выход</Button>
+        </StackPanel>
+
+        <Border BorderBrush="Black" BorderThickness="1" Grid.Row="1" Grid.Column="1">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <WrapPanel x:Name="MyPanel"></WrapPanel>
+            </ScrollViewer>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Right" Margin="10" Width="150" Grid.Row="2" Grid.Column="1">
+            <TextBlock x:Name="CountTb" TextAlignment="Right" Margin="5 0" VerticalAlignment="Center"></TextBlock>
+        </Border>
+
+        <StackPanel Grid.Row="1" Grid.Column="2" Margin="15 15 15 0" >
+            <Border BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top" Height="25" >
+                <Grid>
+                    <TextBlock x:Name="SearchTextBlock" HorizontalAlignment="Left" >Поиск</TextBlock>
+                    <TextBox x:Name="SearchTb" TextChanged="SearchTb_TextChanged" Background="Transparent"></TextBox>
+                </Grid>
+            </Border>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 30 0 0">
+                <Image x:Name="BackPage" MouseDown="BackPage_MouseDown" Source="/Resources/LeftArrow.png"  Margin="0 0 30 0" Width="60"/>
+                <Image x:Name="NextPage" MouseDown="NextPage_MouseDown" Source="/Resources/RightArrow.png"  Width="60" />
+            </StackPanel>
+        </StackPanel>
         
     </Grid>
 </Page>

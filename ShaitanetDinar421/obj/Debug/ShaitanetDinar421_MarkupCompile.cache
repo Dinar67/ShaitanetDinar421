@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\App.xaml
-2-1808539121
+3-2009585655
 2-562095795
-151078477968
+16-942263908
 181287886827
-MainWindow.xaml;Pages\ProductListPage.xaml;
+Components\ProductControl.xaml;MainWindow.xaml;Pages\ProductListPage.xaml;
 
-True
+False
 
