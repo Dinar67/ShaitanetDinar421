@@ -28,7 +28,13 @@
                     <TextBlock x:Name="NameTb" Text="{Binding Name}" Margin="0 0 0 5"></TextBlock>
                     <TextBlock x:Name="PriceTb" Text="{Binding PriceString}"></TextBlock>
                 </StackPanel>
-                
+
+                <StackPanel Grid.Row="2" Grid.Column="2" Orientation="Horizontal" VerticalAlignment="Center">
+                    <Button x:Name="EditBtn" Click="EditBtn_Click" Width="100">Редактировать</Button>
+                </StackPanel>
+                <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+                    <Button x:Name="DeleteBtn" Click="DeleteBtn_Click" Width="100">Удалить</Button>
+                </StackPanel>
             </Grid>
         </Border>
     </Grid>

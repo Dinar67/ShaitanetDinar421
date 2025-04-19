@@ -22,7 +22,8 @@ namespace ShaitanetDinar421
 
         private void CloseBtn_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
+            if(Logger.ShowYesNo("Вы точно хотите выйти из приложения?"))
+                this.Close();
         }
     }
 }

@@ -23,7 +23,9 @@ namespace ShaitanetDinar421.Pages
     public partial class ProductListPage : Page
     {
         public List<Product> Products { get; private set; }
-
+        private int countPage;
+        private int currentPage = 0;
+        private int countItemsInPage = 6;
         public ProductListPage()
         {
             InitializeComponent();
@@ -38,14 +40,23 @@ namespace ShaitanetDinar421.Pages
                 list = list.Where(x => x.Name.ToLower().Contains(SearchTb.Text.ToLower()));
 
             Products = list.ToList();
+            countPage = Products.Count / countItemsInPage + (Products.Count % countItemsInPage > 0? 1 : 0);
+            currentPage = 0;
 
-            ShowList(Products);
+            ShowList(list.ToList());
         }
         private void ShowList(List<Product> products)
         {
             MyPanel.Children.Clear();
+
+            products = products.Skip(countItemsInPage * currentPage).Take(countItemsInPage).ToList(); 
+
             foreach (var product in products)
                 MyPanel.Children.Add(new ProductControl(product));
+
+            int from = countItemsInPage * currentPage == 0? 1 : countItemsInPage * currentPage + 1;
+            int to = countItemsInPage * (currentPage + 1) > Products.Count? Products.Count : countItemsInPage * (currentPage + 1);
+            CountTb.Text = $"{from}-{to} из {Products.Count}";
         }
 
         private void ProductBtn_Click(object sender, RoutedEventArgs e)
@@ -66,22 +77,27 @@ namespace ShaitanetDinar421.Pages
         private void SearchTb_TextChanged(object sender, TextChangedEventArgs e)
         {
             if (!string.IsNullOrWhiteSpace(SearchTb.Text))
-            {
-                SearchTextBlock.Visibility = Visibility.Collapsed;
-                Refresh();
-            }
+                 SearchTextBlock.Visibility = Visibility.Collapsed;
             else SearchTextBlock.Visibility = Visibility.Visible;
-
+            Refresh();
         }
 
         private void BackPage_MouseDown(object sender, MouseButtonEventArgs e)
         {
-
+            if (currentPage > 0)
+            {
+                currentPage--;
+                ShowList(Products);
+            }
         }
 
         private void NextPage_MouseDown(object sender, MouseButtonEventArgs e)
         {
-
+            if(currentPage < countPage - 1)
+            {
+                currentPage++;
+                ShowList(Products);
+            }
         }
     }
 }
