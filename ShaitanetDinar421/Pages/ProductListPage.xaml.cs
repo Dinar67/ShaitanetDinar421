@@ -66,12 +66,12 @@ namespace ShaitanetDinar421.Pages
 
         private void ExitBtn_Click(object sender, RoutedEventArgs e)
         {
-
+            Navigation.NextPage(new AuthPage());
         }
 
         private void UserBtn_Click(object sender, RoutedEventArgs e)
         {
-
+            Navigation.NextPage(new RegPage(App.CurrentUser));
         }
 
         private void SearchTb_TextChanged(object sender, TextChangedEventArgs e)

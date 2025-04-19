@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|c:\\users\\212111\\source\\repos\\shaitanetdinar421\\shaitanetdinar421\\shaitanetdinar421\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|c:\\users\\212111\\source\\repos\\shaitanetdinar421\\shaitanetdinar421\\shaitanetdinar421\\databases\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\databases\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\addeditproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\addeditproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\productlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\productlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\databases\\partialclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,18 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\productlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\productlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,6 +73,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\shaitanetdinar421\\pages\\addeditproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C324D4-AC3D-45DF-B3AE-0927CC65E107}|ShaitanetDinar421\\ShaitanetDinar421.csproj|solutionrelative:shaitanetdinar421\\pages\\addeditproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,23 +86,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pages\\RegPage.xaml.cs",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Databases\\Model1.edmx",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\Databases\\Model1.edmx",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Databases\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ShaitanetDinar421\\Databases\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-19T12:39:13.775Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\ProductListPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\ProductListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\ProductListPage.xaml.cs",
+              "RelativeToolTip": "ShaitanetDinar421\\Pages\\ProductListPage.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwEkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:44:38.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductControl.xaml",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Components\\ProductControl.xaml",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\Components\\ProductControl.xaml",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Components\\ProductControl.xaml",
+              "RelativeToolTip": "ShaitanetDinar421\\Components\\ProductControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T11:04:00.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\MainWindow.xaml",
+              "RelativeToolTip": "ShaitanetDinar421\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T10:53:23.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Methods.cs",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\Methods.cs",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Methods.cs",
+              "RelativeToolTip": "ShaitanetDinar421\\Methods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:13:34.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\RegPage.xaml.cs",
               "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\RegPage.xaml.cs",
               "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\RegPage.xaml.cs",
               "RelativeToolTip": "ShaitanetDinar421\\Pages\\RegPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T11:58:10.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Databases\\PartialClasses\\User.cs",
               "RelativeDocumentMoniker": "ShaitanetDinar421\\Databases\\PartialClasses\\User.cs",
@@ -98,15 +173,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pages\\AuthPage.xaml.cs",
+              "DocumentIndex": 8,
+              "Title": "AuthPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AuthPage.xaml.cs",
               "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\AuthPage.xaml.cs",
               "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AuthPage.xaml.cs",
               "RelativeToolTip": "ShaitanetDinar421\\Pages\\AuthPage.xaml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAjAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwDAAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T11:50:46.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ShaitanetDinar421\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:12:10.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AddEditProductPage.xaml",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\AddEditProductPage.xaml",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AddEditProductPage.xaml",
+              "RelativeToolTip": "ShaitanetDinar421\\Pages\\AddEditProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T12:36:02.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\ProductListPage.xaml",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\ProductListPage.xaml",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\ProductListPage.xaml",
+              "RelativeToolTip": "ShaitanetDinar421\\Pages\\ProductListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T10:36:44.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pages\\AddEditProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AddEditProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\AddEditProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AddEditProductPage.xaml.cs",
+              "RelativeToolTip": "ShaitanetDinar421\\Pages\\AddEditProductPage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:36:41.756Z"
             },
             {
               "$type": "Document",
@@ -121,42 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthPage.xaml",
-              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AuthPage.xaml",
-              "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\AuthPage.xaml",
-              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AuthPage.xaml",
-              "RelativeToolTip": "ShaitanetDinar421\\Pages\\AuthPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-19T11:47:13.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Components\\ProductControl.xaml.cs",
-              "RelativeDocumentMoniker": "ShaitanetDinar421\\Components\\ProductControl.xaml.cs",
-              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Components\\ProductControl.xaml.cs",
-              "RelativeToolTip": "ShaitanetDinar421\\Components\\ProductControl.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T11:13:14.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ShaitanetDinar421\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ShaitanetDinar421\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T11:12:10.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Databases\\PartialClasses\\Product.cs",
               "RelativeDocumentMoniker": "ShaitanetDinar421\\Databases\\PartialClasses\\Product.cs",
@@ -168,42 +253,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductControl.xaml",
-              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Components\\ProductControl.xaml",
-              "RelativeDocumentMoniker": "ShaitanetDinar421\\Components\\ProductControl.xaml",
-              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Components\\ProductControl.xaml",
-              "RelativeToolTip": "ShaitanetDinar421\\Components\\ProductControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-19T11:04:00.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ShaitanetDinar421\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\MainWindow.xaml",
-              "RelativeToolTip": "ShaitanetDinar421\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-19T10:53:23.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductListPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\ProductListPage.xaml.cs",
-              "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\ProductListPage.xaml.cs",
-              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\ProductListPage.xaml.cs",
-              "RelativeToolTip": "ShaitanetDinar421\\Pages\\ProductListPage.xaml.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAkwEkAAAAAAAAA",
+              "DocumentIndex": 14,
+              "Title": "ProductControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Components\\ProductControl.xaml.cs",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\Components\\ProductControl.xaml.cs",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Components\\ProductControl.xaml.cs",
+              "RelativeToolTip": "ShaitanetDinar421\\Components\\ProductControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T10:44:38.815Z"
+              "WhenOpened": "2025-04-19T11:13:14.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\AuthPage.xaml",
+              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\AuthPage.xaml",
+              "RelativeToolTip": "ShaitanetDinar421\\Pages\\AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T11:47:13.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\App.xaml.cs",
               "RelativeDocumentMoniker": "ShaitanetDinar421\\App.xaml.cs",
@@ -215,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Logger.cs",
               "RelativeDocumentMoniker": "ShaitanetDinar421\\Logger.cs",
@@ -227,18 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductListPage.xaml",
-              "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\ProductListPage.xaml",
-              "RelativeDocumentMoniker": "ShaitanetDinar421\\Pages\\ProductListPage.xaml",
-              "ToolTip": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Pages\\ProductListPage.xaml",
-              "RelativeToolTip": "ShaitanetDinar421\\Pages\\ProductListPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-19T10:36:44.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Navigation.cs",
               "DocumentMoniker": "C:\\Users\\212111\\source\\repos\\ShaitanetDinar421\\ShaitanetDinar421\\ShaitanetDinar421\\Navigation.cs",
               "RelativeDocumentMoniker": "ShaitanetDinar421\\Navigation.cs",

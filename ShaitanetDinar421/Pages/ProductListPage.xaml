@@ -23,13 +23,13 @@
 
         <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="1">
             <Button x:Name="ProductBtn" Click="ProductBtn_Click" Width="150" Height="50" Margin="0 0 0 20">Корма</Button>
-            <Button x:Name="UserBtn" Click="UserBtn_Click" Width="150" Height="50" Margin="0 0 0 20">Пользователи</Button>
+            <Button x:Name="UserBtn" Click="UserBtn_Click" Width="150" Height="50" Margin="0 0 0 20">Мой профиль</Button>
             <Button x:Name="ExitBtn" Click="ExitBtn_Click" Width="150" Height="50" Margin="0 0 0 20">Выход</Button>
         </StackPanel>
 
         <Border BorderBrush="Black" BorderThickness="1" Grid.Row="1" Grid.Column="1">
             <ScrollViewer VerticalScrollBarVisibility="Auto">
-                <WrapPanel x:Name="MyPanel"></WrapPanel>
+                <WrapPanel x:Name="MyPanel" HorizontalAlignment="Center"></WrapPanel>
             </ScrollViewer>
         </Border>
 

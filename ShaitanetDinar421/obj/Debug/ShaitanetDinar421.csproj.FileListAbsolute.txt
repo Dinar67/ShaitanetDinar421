@@ -29,3 +29,5 @@ C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar4
 C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Pages\RegPage.g.cs
 C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Pages\AuthPage.baml
 C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Pages\RegPage.baml
+C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Pages\AddEditProductPage.g.cs
+C:\Users\212111\source\repos\ShaitanetDinar421\ShaitanetDinar421\ShaitanetDinar421\obj\Debug\Pages\AddEditProductPage.baml

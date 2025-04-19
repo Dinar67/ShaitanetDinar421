@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ShaitanetDinar421"
         mc:Ignorable="d"
-        Title="Шайтане" Height="600" Width="1000" WindowStartupLocation="CenterScreen" WindowStyle="None" Icon="\Resources\Logo.ico">
+        Title="Шайтане" MinHeight="600" MinWidth="1000" Width="1200" WindowStartupLocation="CenterScreen" WindowStyle="None" Icon="\Resources\Logo.ico">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="3*"/>
@@ -23,6 +23,5 @@
 
 
         <Frame x:Name="MainFrame" Grid.Row="1" NavigationUIVisibility="Hidden"></Frame>
-        
     </Grid>
 </Window>

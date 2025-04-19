@@ -46,7 +46,7 @@ namespace ShaitanetDinar421.Pages
 
         private void RegLink_Click(object sender, RoutedEventArgs e)
         {
-            Navigation.NextPage(new RegPage());
+            Navigation.NextPage(new RegPage(new Databases.User()));
         }
     }
 }

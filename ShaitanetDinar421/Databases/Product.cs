@@ -18,5 +18,6 @@ namespace ShaitanetDinar421.Databases
         public string Name { get; set; }
         public Nullable<decimal> Price { get; set; }
         public byte[] ImageBytes { get; set; }
+        public string Description { get; set; }
     }
 }
