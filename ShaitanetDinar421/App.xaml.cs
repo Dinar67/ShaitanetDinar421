@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ShaitanetDinar421.Databases;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
@@ -13,5 +14,6 @@ namespace ShaitanetDinar421
     /// </summary>
     public partial class App : Application
     {
+        public static ExamDinarEntities db = new ExamDinarEntities();
     }
 }

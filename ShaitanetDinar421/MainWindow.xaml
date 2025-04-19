@@ -5,8 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ShaitanetDinar421"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Шайтане" Height="600" Width="1000" WindowStartupLocation="CenterScreen" WindowStyle="None">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="47*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <TextBlock VerticalAlignment="Center" Margin="10 0">Шайтане</TextBlock>
+ 
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10 0">
+                <Button x:Name="HideBtn" Click="HideBtn_Click" Width="80">Свернуть</Button>
+                <Button x:Name="CloseBtn" Click="CloseBtn_Click" Width="80" Margin="10 0 0 0">Закрыть</Button>
+            </StackPanel>
+        </Grid>
+
+
+        <Frame x:Name="MainFrame"></Frame>
         
     </Grid>
 </Window>

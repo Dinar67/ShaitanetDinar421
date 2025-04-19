@@ -1,17 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ShaitanetDinar421.Pages;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace ShaitanetDinar421
 {
@@ -23,6 +11,18 @@ namespace ShaitanetDinar421
         public MainWindow()
         {
             InitializeComponent();
+            Navigation.Intialize(MainFrame);
+            Navigation.NextPage(new ProductListPage());
+        }
+
+        private void HideBtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void CloseBtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }
